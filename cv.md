@@ -32,7 +32,7 @@ function countPositivesSumNegatives(input) {
     return [positive , negative];
 }
 ```
-6. **Experience:** [CV](https://github.com/Za-Javu-I-Dvor/rsschool-cv/blob/gh-pages/%D1%81v.md)
+6. **Experience:** [CV](https://github.com/Za-Javu-I-Dvor/rsschool-cv/blob/gh-pages/cv.md)
 7. **Education:** Volga State University of Telecommunications and Informatics. Direction "Informatics and computer technology".
 8. **English language:** B1(Intermediate) 
 
